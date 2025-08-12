@@ -8,7 +8,7 @@ load_dotenv()  # Load .env variables
 # HF_API_URL = "https://api-inference.huggingface.co/models/facebook/m2m100_418M"
 # HF_API_KEY = os.getenv("HF_API_KEY")
 
-API_KEY = "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"
+API_KEY = ""
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 LANG_CODES = {
